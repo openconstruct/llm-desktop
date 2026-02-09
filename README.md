@@ -36,7 +36,7 @@ Once the app is loaded, use the **Models** tab to select and switch models.
 
 LLM-Desktop is comprised of 3 main parts. 
 - llamcpp Provides inference via API
-- fastAPI server Provides internet search, and device analytics
+- fastAPI server Provides  tools, and device analytics
 - Flet desktop application Provides the UI, control center, and document interface
 
   This software has been tested thouroughly on an AMD laptop and a Radxa Orion o6 ARM development board.
