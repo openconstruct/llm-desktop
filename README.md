@@ -1,6 +1,7 @@
 # LLM-Desktop
 Local AI desktop for GGUF models on Linux & SBCs (Radxa, Pi, etc.)
 ________________________________________________________________
+<img width="1194" height="656" alt="Screenshot From 2026-02-08 11-29-22" src="https://github.com/user-attachments/assets/39fe49ab-0f7d-456c-b76d-408ca7e4d77b" />
 
 
 This project built initially for the Baidu ERNIE hackathon, Oct 24-Nov23 2025.
