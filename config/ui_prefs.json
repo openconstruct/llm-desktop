@@ -1,0 +1,14 @@
+{
+  "assistant_name": "Assistant",
+  "assistant_tone": "helpful",
+  "temperature": "0.7",
+  "max_tokens": "1024",
+  "top_p": "0.95",
+  "top_k": "40",
+  "stop_sequences": "USER:, \\nUSER:, <|user|>",
+  "theme_preset": "Graphite",
+  "density_preset": "Compact",
+  "tool_web_search_enabled": true,
+  "tool_fs_enabled": true,
+  "export_format": "json"
+}

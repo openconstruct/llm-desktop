@@ -1,0 +1,10 @@
+{
+  "model_dir": "models",
+  "current_model_path": "models/e4.gguf",
+  "autostart_model": true,
+  "tool_files_dir": "workspace",
+  "tool_files_max_bytes": 200000,
+  "llama_args": "--threads 7 --ctx-size 8192 --batch-size 4 --mlock",
+  "power_idle_watts": 15.0,
+  "power_max_watts": 65.0
+}
